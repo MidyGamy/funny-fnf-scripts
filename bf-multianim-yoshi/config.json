@@ -1,0 +1,33 @@
+{
+	"skinnableGFs": [],
+	"locked": false,
+	"BFskins": [],
+	"keyNumbers": [
+		4
+	],
+	"name": "BF Multi Anims",
+	"description": "Beta testing for new mod",
+	"intro": {
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"newgrounds": "newgrounds",
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
+	},
+	"skinnableBFs": [],
+	"titleBarName": "Friday Night Funkin'",
+	"GFskins": []
+}
