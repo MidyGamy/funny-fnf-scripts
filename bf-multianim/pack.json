@@ -1,0 +1,7 @@
+{
+	"name": "Multi Anims BF",
+	"description": "WSNE",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}
